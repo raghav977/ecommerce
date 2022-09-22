@@ -241,7 +241,7 @@ h2::first-letter{
     margin-right:10px; */
     /* gap: 1; */
     display: flex;
-    border: 2px solid red;
+/*     border: 2px solid red; */
     /* margin-left:18px; */
     justify-content: space-around;
     /* margin: 0 auto; */
